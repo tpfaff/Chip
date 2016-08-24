@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/tylerpfaff/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_6fbc5bd1b7e6809406c5a8d8092645e560fc6bb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_51467eb3fe973fbd95a8aaaa014e00de39924bdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_1c5751f27b1a1d49245c855e5f9959fe0ee8a4fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylerpfaff/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/okio-1.8.0_54625f6eedb71eeddd26954c92d0cf41ce8a7397.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_d373ae8bc89f8fd238214dd9d49f99fa0035d0d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_888b7fa497564dd933ad0864a114864278bb7304.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_8bf3395cd9f763ae42ed0621556a02810d1b8e87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_148b682a6d027611c18ff2d5a25a7741e0d50f65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_554de40c42cdd58e0dcc595e1ae31e26de7349cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_aa8ebe9df52884b9b6309dda34f84a45423ecb7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_370cf0004064104cddee9d6efe02764d1ae3284c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylerpfaff/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_dd04f2ca0ea5b8363703cf0e3d89e0cd1325c436.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_e549151d69295f01ea0a5d538e7b2adfd63b6ffa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylerpfaff/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_d5f428f40ae9fd0cbf7dab2b54cc4eb2db7b1c4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_2031d53108b336946de33cb0793efa9a1f6051bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_1bc40ebee2de9c9cbb9df016a5e0dbb3ff0ccee1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_5320a93df2fd866883b0e49ef10b49bb519b9e68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_db6ec46f34fd13453e0faacb101f77f1cf8746a1.jar" />
+    </item>
+
+</items>
