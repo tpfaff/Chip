@@ -3,165 +3,264 @@
 
     <item
         is-multidex="false"
-        jar="/Users/tylerpfaff/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jar="C:\Users\Tyler\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.0"
+        revision="24.0.1"
         sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
-        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_6fbc5bd1b7e6809406c5a8d8092645e560fc6bb0.jar" />
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_3832939cc7766ecadf7ad8a61da199f7933ead22.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.0"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_51467eb3fe973fbd95a8aaaa014e00de39924bdb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
-        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_1c5751f27b1a1d49245c855e5f9959fe0ee8a4fa.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/tylerpfaff/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
-        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/okio-1.8.0_54625f6eedb71eeddd26954c92d0cf41ce8a7397.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_d373ae8bc89f8fd238214dd9d49f99fa0035d0d1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_888b7fa497564dd933ad0864a114864278bb7304.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
+        revision="24.0.1"
         sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_8bf3395cd9f763ae42ed0621556a02810d1b8e87.jar" />
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_62e8803ce6cb86e3f6b33bcd560f53b97ec25273.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.0"
-        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_148b682a6d027611c18ff2d5a25a7741e0d50f65.jar" />
+        revision="24.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.4.0_676fbd3e266f46b4e45adb1c3b8e28ebce50df0e.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.0"
-        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_554de40c42cdd58e0dcc595e1ae31e26de7349cd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
+        revision="24.0.1"
         sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_aa8ebe9df52884b9b6309dda34f84a45423ecb7c.jar" />
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_85e6311d37dc59f5922237775a071c4e3ef5486f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.0"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_370cf0004064104cddee9d6efe02764d1ae3284c.jar" />
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_b2eae38acb7fccecaeeb6defa6491abe86c146ee.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/tylerpfaff/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.0"
-        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_dd04f2ca0ea5b8363703cf0e3d89e0cd1325c436.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_e549151d69295f01ea0a5d538e7b2adfd63b6ffa.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/tylerpfaff/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
-        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_d5f428f40ae9fd0cbf7dab2b54cc4eb2db7b1c4c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_2031d53108b336946de33cb0793efa9a1f6051bd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
+        revision="24.0.1"
         sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_1bc40ebee2de9c9cbb9df016a5e0dbb3ff0ccee1.jar" />
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_1252e3640a20b43e043fe00a3d07e47dccd49558.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.0"
-        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
-        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_5320a93df2fd866883b0e49ef10b49bb519b9e68.jar" />
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_aed63267a114ec2b190f55973e662e20539f1411.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/tylerpfaff/Events/Chip/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jar="C:\Users\Tyler\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.0"
+        revision="24.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\okio-1.8.0_17efc5d1461286c5c3f212249514f1d4a23a8083.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-9.4.0_3fa96819bfb943d1ac1ce20b6473820a24e191a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_c167685e463c4c8ec63d65918ba3ba343e7144d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.4.0_8fba8a7772e60b9f8cda61e79847498e9815af47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_66422e804cce74d727f8c9a91f5bf7aad6786fb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_d0f15f17fe05984ceec3e23ae0e1e0a52202791a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.4.0_5bfcb9f611761160083e5133c4b9fd7db6d407dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.4.0_a4607950200f923dcf245951c65b47903261c91c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_f631421e4819e96db23e86873e6d34734d43f39d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-9.4.0_baece8d06f57e2c787ebe013c6e8d84a7bc956f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_99c32427f18370b0e15f48b3c9fe993aeca34a30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_e6da39fc4ca368cfe2985c051426090e88553a25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_bfad5b0b28f4445c9a3ffb4db71a865e16512773.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.4.0_3580373804288f5a75840a0392c925d5e893bd0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_0612d8c5cd6c740fc173a8bb241ffbf1edf98609.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tyler\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_29918b6f4cebc8731b55bf0dfa29fd7ac4bd7098.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_099b43cbcefcac579860f38c1a483204f238c3b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.4.0_98f3fd80fe0683519b60a4bba3323a8e9227ed19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
         sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="/Users/tylerpfaff/Events/Chip/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_db6ec46f34fd13453e0faacb101f77f1cf8746a1.jar" />
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_01049dc95c0a3454887efb6fcd2f752286a591a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.4.0_fa0a49036c557f31af64cbbcf0dc5188239bebe8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_b36fa3e0cbb2e6ba98fe7de22e3c424c38ac564b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\Chip\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_9386241b70aa8c0da79d8e7116723393c297609a.jar" />
     </item>
 
 </items>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "719633050523",
+    "firebase_url": "https://chipotle-4835d.firebaseio.com",
+    "project_id": "chipotle-4835d",
+    "storage_bucket": "chipotle-4835d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719633050523:android:ab7c8f6ef60e95c1",
+        "android_client_info": {
+          "package_name": "com.wajumbie.chip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719633050523-acnakeeu6tjdu1gou6fl4k7rgl55g2k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxM-DzS_VpBRIu-MrziUhjRgpO0mWUXS8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
