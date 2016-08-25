@@ -49,6 +49,7 @@ public class MainActivity extends AppCompatActivity {
     WebView webView;
     ImageView qrView;
     ProgressBar progressBar;
+    AdView mAdView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -57,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
 
         setContentView(R.layout.activity_main);
 
-        AdView mAdView = (AdView) findViewById(R.id.ad_view);
+        mAdView = (AdView) findViewById(R.id.ad_view);
         AdRequest adRequest = new AdRequest.Builder().addTestDevice("7526E51362799004B14B46B7812549C3").build();
         mAdView.loadAd(adRequest);
 
@@ -115,6 +116,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void loadQRCode(){
+
+        mAdView.setVisibility(View.VISIBLE);
 
         getSupportActionBar().setTitle(getResources().getString(R.string.app_name));
         if(webView.getVisibility() == View.GONE){
