@@ -54,16 +54,10 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        MobileAds.initialize(getApplicationContext(), "ca-app-pub-8977189469228943~2428085784");
 
         setContentView(R.layout.activity_main);
 
-        mAdView = (AdView) findViewById(R.id.ad_view);
-        AdRequest adRequest = new AdRequest.Builder().addTestDevice("7526E51362799004B14B46B7812549C3").build();
-        mAdView.loadAd(adRequest);
-
         sharedPreferences = getSharedPreferences(prefsName,MODE_PRIVATE);
-
 
         qrView = (ImageView)findViewById(R.id.qr_image_view);
         webView = (WebView)findViewById(R.id.web_view);
@@ -83,6 +77,7 @@ public class MainActivity extends AppCompatActivity {
     private void initWebView(){
 
         CookieManager.getInstance().removeAllCookie();
+
         webView.getSettings().setJavaScriptEnabled(true);
 
         webView.setWebViewClient(new WebViewClient() {
@@ -117,8 +112,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void loadQRCode(){
 
-        mAdView.setVisibility(View.VISIBLE);
-
         getSupportActionBar().setTitle(getResources().getString(R.string.app_name));
         if(webView.getVisibility() == View.GONE){
             progressBar.setVisibility(View.VISIBLE);
@@ -137,14 +130,14 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onResponse(Call<ResponseBody> call, Response<ResponseBody> response) {
                 Log.d(TAG,"SUCCESS!");
-                BitmapDrawable drawable = new BitmapDrawable(response.body().byteStream());
+                BitmapDrawable drawable = new BitmapDrawable(getResources(),response.body().byteStream());
                 qrView.setImageDrawable(drawable);
                 progressBar.setVisibility(View.GONE);
             }
 
             @Override
             public void onFailure(Call<ResponseBody> call, Throwable t) {
-                Log.d(TAG,"FAIL!");
+                Log.e(TAG,"FAIL!");
                 Toast.makeText(MainActivity.this,t.getLocalizedMessage(),Toast.LENGTH_LONG).show();
             }
         });
